@@ -23,7 +23,7 @@ As a versatile developer, I combine expertise in Android app development, Python
 
 
 
-## My GitHub Stats</b>
+### My GitHub Stats</b>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xectrone&theme=dark&hide_border=false)<br/>
 
