@@ -9,7 +9,7 @@ As a versatile developer, I combine expertise in Android app development, Python
 * 🌍  I'm based in Nashik, India
 * ✉️  You can contact me at [xectrone@gmail.com](mailto:xectrone@gmail.com)
 * 🚀  I'm currently working on [Android Apps](http://play.google.com/store/apps/dev?id=8393876742305730152)
-* ⚡  🤫 I used to dabble in game development with Unity and C#, and I even started working on a game once. It’s still a work in progress, but I’m hoping to finish it someday.
+* 🤫  I used to dabble in game development with Unity and C#, and I even started working on a game once. It’s still a work in progress, but I’m hoping to finish it someday.
 
 ### Skills
 
